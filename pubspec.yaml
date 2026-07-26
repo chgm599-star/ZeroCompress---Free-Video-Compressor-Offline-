@@ -1,0 +1,16 @@
+name: zerocompress_pro
+description: ZeroCompress PRO - Original Design - Fast 2GB - 100% Working
+publish_to: 'none'
+version: 2.0.0+10
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  ffmpeg_kit_flutter: ^6.0.3
+  file_picker: ^8.1.0
+  path_provider: ^2.1.2
+  permission_handler: ^11.3.1
+  video_compress: ^3.1.4
+flutter:
+  uses-material-design: true
